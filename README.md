@@ -1,18 +1,18 @@
 # Kandahar University Warehouse Management System
 
-A modern, web-based and mobile-responsive **Warehouse, Inventory, Procurement, Reporting, and Asset Traceability Management System** developed by **EDH-TEAM** for Kandahar University.
+A modern, web-based and mobile-responsive **Warehouse, Inventory, Procurement, Reporting, and Asset Traceability Management System** developed by **EDH-Technalogy** for Kandahar University.
 
 This system is designed to help university warehouse and administrative departments manage inventory, procurement requests, official forms, reports, stock movement, and asset traceability through one centralized digital platform.
 
 ---
 
-## About EDH-TEAM
+## About EDH-Technalogy
 
-**EDH-TEAM** is a professional software development team focused on building modern, scalable, and practical digital solutions for organizations, businesses, and institutions.
+**EDH-Technalogy** is a professional software development team focused on building modern, scalable, and practical digital solutions for organizations, businesses, and institutions.
 
 We design and develop web applications, business management systems, dashboards, automation tools, AI integrations, and digital solutions that solve real operational problems.
 
-All projects delivered by **EDH-TEAM** are designed, developed, tested, and maintained with a strong focus on usability, performance, security, maintainability, and practical business value.
+All projects delivered by **EDH-Technalogy** are designed, developed, tested, and maintained with a strong focus on usability, performance, security, maintainability, and practical business value.
 
 ---
 
@@ -24,8 +24,8 @@ All projects delivered by **EDH-TEAM** are designed, developed, tested, and main
 | **Project Type** | Web-Based & Mobile-Responsive Management System |
 | **Client / Industry** | Kandahar University / Education Sector / Public Administration |
 | **Main Purpose** | Warehouse, Inventory, Procurement, Reporting, and Asset Traceability Management |
-| **Development Team** | EDH-TEAM |
-| **Repository** | [View Repository](https://github.com/EDH-TEAM/kandahar_university_wms) |
+| **Development Team** | EDH-Technalogy |
+| **Repository** | [View Repository](https://github.com/EDH-Technalogy/kandahar_university_wms) |
 | **Demo Link** | Coming Soon |
 
 ---
@@ -48,7 +48,7 @@ The previous manual workflow created several challenges:
 
 ## Solution
 
-EDH-TEAM developed a complete **Warehouse Management System** that helps Kandahar University manage warehouse, procurement, inventory, reporting, and asset traceability operations in one organized digital platform.
+EDH-Technalogy developed a complete **Warehouse Management System** that helps Kandahar University manage warehouse, procurement, inventory, reporting, and asset traceability operations in one organized digital platform.
 
 The system provides a clean, practical, and responsive interface for administrators and staff. It supports Pashto/Dari right-to-left usage and works properly on both desktop and mobile devices.
 
@@ -121,11 +121,11 @@ The system provides a clean, practical, and responsive interface for administrat
 
 ---
 
-## Role of EDH-TEAM
+## Role of EDH-Technalogy
 
-This project was fully designed, developed, tested, and maintained by **EDH-TEAM**.
+This project was fully designed, developed, tested, and maintained by **EDH-Technalogy**.
 
-EDH-TEAM was responsible for:
+EDH-Technalogy was responsible for:
 
 - Project planning
 - System analysis
@@ -168,5 +168,5 @@ Live deployment and public demo access will be added soon.
 
 ## Developed By
 
-**EDH-TEAM**  
+**EDH-Technalogy**  
 Professional Software Development Team
